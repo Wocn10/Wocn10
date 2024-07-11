@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Wilmer Castro</h1>
 <p align="center">
-  <a href="https://www.canva.com/design/DAGJKPeYQw0/FlJiCdVtNuLbYJO2X1jXhg/edit?utm_content=DAGJKPeYQw0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-    <img src="https://www.canva.com/design/DAGJKPeYQw0/FlJiCdVtNuLbYJO2X1jXhg/view?utm_content=DAGJKPeYQw0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner" style="width:100%; max-width:600px;">
+ <a ![https://github.com/Wocn10](./Banner_wocn10.png) alt="Banner" style="width:100%; max-width:600px;">
   </a>
 </p>
 
-![https://github.com/Wocn10](./Banner_wocn10.png)
+<a ![https://github.com/Wocn10](./Banner_wocn10.png) </a>
 <h3 align="center">I am passionate about programming, every day I learn more and grow as a professional and as a person.</h3>
 
 <p align="left">How to reach me: <a href="mailto:wilmercastro.nuor@gmail.com">wilmercastro.nuor@gmail.com</a></p>
