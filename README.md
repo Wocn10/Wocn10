@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-(https://www.canva.com/design/DAGJKPeYQw0/ohiiIFdSKbiHMcnDai5OFg/view?utm_content=DAGJKPeYQw0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+https://www.canva.com/design/DAGJKPeYQw0/FlJiCdVtNuLbYJO2X1jXhg/edit?utm_content=DAGJKPeYQw0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <!--
 **Wocn10/Wocn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
