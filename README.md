@@ -2,6 +2,7 @@
 
 ![https://github.com/Wocn10](./Banner_wocn10.png)
 
+## 👨‍💻 About
 <h3 align="center">I am passionate about programming, every day I learn more and grow as a professional and as a person.</h3>
 
 <p align="left">How to reach me: <a href="mailto:wilmercastro.nuor@gmail.com">wilmercastro.nuor@gmail.com</a></p>
