@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wilmer Castro</h1>
-https://www.canva.com/design/DAGJKPeYQw0/FlJiCdVtNuLbYJO2X1jXhg/edit?utm_content=DAGJKPeYQw0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<a https://www.canva.com/design/DAGJKPeYQw0/FlJiCdVtNuLbYJO2X1jXhg/edit?utm_content=DAGJKPeYQw0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton ></a>
 <h3 align="center">I am passionate about programming, every day I learn more and grow as a professional and as a person.</h3>
+
+<p align="left">How to reach me wilmercastro.nuor@gmail.com </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wocn10" alt="wocn10" /></a> </p>
 
