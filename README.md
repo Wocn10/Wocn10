@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wilmer Castro</h1>
 <p align="center">
- <a ![https://github.com/Wocn10](./Banner_wocn10.png) alt="Banner" style="width:100%; max-width:600px;">
-  </a>
+![https://github.com/Wocn10](./Banner_wocn10.png)
 </p>
 
 <a ![https://github.com/Wocn10](./Banner_wocn10.png) </a>
