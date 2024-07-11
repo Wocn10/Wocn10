@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wilmer Castro</h1>
 
-<a ![https://github.com/Wocn10](./Banner_wocn10.png) </a>
+![https://github.com/Wocn10](./Banner_wocn10.png)
 
 <h3 align="center">I am passionate about programming, every day I learn more and grow as a professional and as a person.</h3>
 
