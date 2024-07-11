@@ -1,7 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Wilmer Castro</h1> -->
-<h1 align="center">
-  <span>👨‍💻</span> 
-</h1>
+<h1 align="center">Hi 👋, I'm Wilmer Castro 👨‍💻</h1> 
 
 ![https://github.com/Wocn10](./Banner_wocn10.png)
 
