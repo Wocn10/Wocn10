@@ -1,9 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Wilmer Castro</h1> -->
 <h1 align="center">
-  <span>Hi,</span> 
-  <span>👋</span> 
   <span>👨‍💻</span> 
-  <span style="transform: scaleX(-1); display: inline-block;">👋</span>
 </h1>
 
 ![https://github.com/Wocn10](./Banner_wocn10.png)
