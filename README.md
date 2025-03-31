@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </div>
 
-## 🐍 GitHub Activity Snake:
+## 🐍 GitHub Activity:
 <div align="center">
   <img src="https://raw.githubusercontent.com/Wocn10/Wocn10/main/snake.svg" alt="Snake animation" />
 </div>
